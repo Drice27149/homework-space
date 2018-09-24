@@ -13,4 +13,4 @@ title: 请将标题写在这里
 
 用 vscode 编辑它，然后提交！
 这个文档将发布在 https://your-account.github.io/homework 中！
-[图片]
+![肯的站姿重拳](https://i.loli.net/2018/09/24/5ba855cf22a2e.png)
