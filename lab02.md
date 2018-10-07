@@ -1,6 +1,6 @@
 ---
 layout: default
-title:跑步也是有难度的！——construct2制作游戏小心得
+title: 跑步也是有难度的！——construct2制作游戏小心得
 ---
 
 # 如何让游戏人物实现“奔跑”这个动作呢？
