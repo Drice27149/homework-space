@@ -1,7 +1,7 @@
 # 归并排序算法的实现和测试
 
 * 归并排序是一个大家都熟悉的算法, 此处不赘述其具体细节。
-* 简单地说, 它能对无序数组进行排序。时间复杂$ O(nlog(n)) $, 空间复杂度$ O(n) $, 需要与原数组长度相同的辅助空间。
+* 简单地说, 它能对无序数组进行排序。时间复杂<a href="https://www.codecogs.com/eqnedit.php?latex=O(nlog(n))" target="_blank"><img src="https://latex.codecogs.com/gif.latex?O(nlog(n))" title="O(nlog(n))" /></a>, 空间复杂度,<a href="https://www.codecogs.com/eqnedit.php?latex=O(n)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?O(n)" title="O(n)" /></a> 需要与原数组长度相同的辅助空间。
 ## 实现代码
 
 <pre><code>
