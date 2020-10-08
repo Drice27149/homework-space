@@ -62,7 +62,7 @@ func TestMergeSort(t *testing.T) {
 
 * 不进行排序, 只进行测试, 显然是不能通过的
 
-* ![](https://github.com/Drice27149/homework-space/blob/master/lab1/pic/noSort.png)
+* ![](pic/noSort.png)
 
   
 
