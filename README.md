@@ -1,3 +1,3 @@
 # home work
 
-A place for sysu pml homework.
+A place for sysu homework.
